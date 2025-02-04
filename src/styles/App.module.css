@@ -1,0 +1,21 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: aliceblue; /* Set background color */
+    color: black;
+    text-align: center;
+  }
+  
+  .heading {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #333; /* Darker heading color */
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  
